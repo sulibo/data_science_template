@@ -14,15 +14,15 @@ Usage
 ------------
 
 ### Create the GitHub repository
-* On GitHub, navigate to the main page of [the template repository](https://github.com:sulibo/data_science_template)
+* On GitHub, navigate to the main page of [the template repository](https://github.com/sulibo/data_science_template)
 * Above the file list, click **Use this template**.
-![Use this template button](https://i.ibb.co/vHP1mhQ/use-this-template.png "use_this_template_button")
+![Use this template button](https://i.ibb.co/JpyP904/Use-this-template-button.png "use_this_template_button")
 * Type a name for your repository, and an optional description.
-![type repo name](https://i.ibb.co/8PYfdHx/repo-name-description.png "type repo name")
+![type repo name](https://i.ibb.co/wycwGPs/type-repo-name.png "type repo name")
 * Choose repository visibility as **Private** or **Public**.
-![private repo](https://i.ibb.co/mTXpdDX/private-repo.png "private repo")
+![private or public repo](https://i.ibb.co/HPgk9ZQ/private-public.png "private or public repo")
 * Select **Include all branches** to include the directory structure and files from all branches in the template, and not just the default branch.
-![include all branches](https://i.ibb.co/w6p4DKj/include-all-branches.png "include all branches")
+![include all branches](https://i.ibb.co/NSWDxbp/include-all-branches.png "include all branches")
 * Click **Create repository from template**.
 
 ### Initial setup
